@@ -1,0 +1,6 @@
+H:\TalhazaPublicRepoGithub\TestApp\TestApp\bin\Debug\TestApp.exe.config
+H:\TalhazaPublicRepoGithub\TestApp\TestApp\bin\Debug\TestApp.exe
+H:\TalhazaPublicRepoGithub\TestApp\TestApp\bin\Debug\TestApp.pdb
+H:\TalhazaPublicRepoGithub\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+H:\TalhazaPublicRepoGithub\TestApp\TestApp\obj\Debug\TestApp.exe
+H:\TalhazaPublicRepoGithub\TestApp\TestApp\obj\Debug\TestApp.pdb
