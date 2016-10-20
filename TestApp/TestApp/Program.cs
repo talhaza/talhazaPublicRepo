@@ -14,6 +14,7 @@ namespace TestApp
             Console.WriteLine(string.Format("The Machine Name is :{0}", hostName));
             Console.ReadKey();
             string name = "";
+            name = "talha";
         }
     }
 }
